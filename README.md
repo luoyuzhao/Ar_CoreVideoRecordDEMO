@@ -1,0 +1,4 @@
+# Ar_CoreVideoRecordDEMO
+录制ARCORE屏幕
+
+基于GLSurfaceView和ARCORE 的屏幕录制DEMO
